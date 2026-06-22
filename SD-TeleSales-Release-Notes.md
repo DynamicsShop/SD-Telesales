@@ -1,6 +1,16 @@
 ## SD Telesales Releases
 
-## SD Telesales Releases
+### 4.0.1
+
+#### Enhancements
+
+- A change was made to the Call List to allow for multi selection of call records for deletion.
+
+- A new action Enter Order was added to the Orders FastTab in the Make Call Card. This action populates the customer's details in the newly created Sales Order.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
 
 ### 4.0.0
 
