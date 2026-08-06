@@ -1,5 +1,11 @@
 ## SD Telesales Releases
 
+### 4.0.2
+
+#### Enhancements
+
+- An action to open the Item Controls page was added to the Sales Order extension page. 
+
 ### 4.0.1
 
 #### Enhancements
