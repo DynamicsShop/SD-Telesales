@@ -4,7 +4,13 @@
 
 #### Enhancements
 
-- An action to open the Item Controls page was added to the Sales Order extension page. 
+- An action to open the Item Controls page was added to the Sales Order extension page.
+
+- Order Value, Order Cost, Order Margin, and Order Margin % were added to the Sales Order list extension page.
+
+- A new field, SDY Telesales Document, was added to the Sales Header to stamp an order entered from the Make Call Card as a Telesales order.
+
+- When accessed from the cue in the SD Telesales Role Centres, the extended Sales Order List extension page is now filtered down to show only SD Telesales Orders.
 
 ### 4.0.1
 
