@@ -12,6 +12,8 @@
 
 - When accessed from the cue in the SD Telesales Role Centres, the extended Sales Order List extension page is now filtered down to show only SD Telesales Orders.
 
+- Telemetry was added to log when calls are archived.
+
 ### 4.0.1
 
 #### Enhancements
