@@ -1,5 +1,15 @@
 ## SD Telesales Releases
 
+### 4.0.3
+
+#### Enhancements
+
+- The Sell-To Customer Name was surfaced on the Telesales Call List.
+
+- An update was made to the SDY TS Call Mgt. Codeunit to bypass the item control notification on the Sales Lines if a Sales Order is created by running an SD Interface EDI Sales Order Job Queue.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
 ### 4.0.2
 
 #### Enhancements
